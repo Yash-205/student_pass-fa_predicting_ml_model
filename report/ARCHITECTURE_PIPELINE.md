@@ -404,4 +404,4 @@ lower and more representative.
 
 ---
 
-**Team:** Divyanshu Raj · Yash Agarwal · Abhijeet Kumar · Ranajeet Roy
+**Team:** Yash Agarwal
