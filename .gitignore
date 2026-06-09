@@ -1,0 +1,6 @@
+sample_for_projects/
+.DS_Store
+**/__pycache__/
+.env
+venv/
+chroma_db/
