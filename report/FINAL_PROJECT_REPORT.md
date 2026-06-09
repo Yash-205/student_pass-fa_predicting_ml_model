@@ -10,7 +10,7 @@
 * **Batch:** 2024
 * **Date:** April 2026
 * **GitHub Repository:** https://github.com/Yash-205/student_pass-fa_predicting_ml_model
-* **Hosted Application:** https://student-pass-fail-predicting-ml-model.streamlit.app/
+* **Hosted Application:** https://studentpass-fapredictingmlmodel-cr9r6kmp3swsgnsmqn6dzk.streamlit.app/
 
 ---
 

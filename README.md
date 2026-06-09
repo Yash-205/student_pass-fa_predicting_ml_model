@@ -1,6 +1,6 @@
 # Student Pass/Fail Predictor with AI Study Coach
 
-**Live Demo:** [https://student-pass-fail-predicting-ml-model.streamlit.app/](https://student-pass-fail-predicting-ml-model.streamlit.app/)
+**Live Demo:** [https://studentpass-fapredictingmlmodel-cr9r6kmp3swsgnsmqn6dzk.streamlit.app/](https://studentpass-fapredictingmlmodel-cr9r6kmp3swsgnsmqn6dzk.streamlit.app/)
 
 A two-page Streamlit application that predicts whether a student will pass or fail using a pre-trained ML pipeline, then connects them to a personalised AI Study Coach powered by LangGraph, Groq LLM, ChromaDB RAG, and Tavily web search.
 
